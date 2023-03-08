@@ -10,7 +10,7 @@
     {
       "path": "Test_dbdemos_notebook_1.ipynb", 
       "pre_run": True, 
-      "publish_on_website":True, 
+      "publish_on_website": True, 
       "add_cluster_setup_cell": True,
       "title":  "Mo test 1", 
       "description": "Mo test dbdemos 1",
